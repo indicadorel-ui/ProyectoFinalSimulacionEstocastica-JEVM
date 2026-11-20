@@ -11,6 +11,6 @@ Este proyecto implementa un modelo matemático y estocástico para analizar y pr
 
 ## 📂 Estructura del Repositorio
 ```text
-├── Proyecto Final Simulación Estocástica-JEVM.ipynb   # Notebook principal de Google Colab con el código y análisis completo
+├── ProyectoFinalSimulaciónEstocásticaJEVM.ipynb   # Notebook principal de Google Colab con el código y análisis completo
 ├── README.md                  # Documentación y guía detallada del repositorio
 └── requirements.txt           # Archivo de dependencias y librerías de Python requeridas
